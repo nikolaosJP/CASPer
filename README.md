@@ -39,10 +39,14 @@ pdflatex -interaction=nonstopmode -halt-on-error CASP_Paper_TwoColumn.tex
 
 ## Citation
 ```bibtex
-@article{iliopoulos2025casp,
-  title={Covariance-Aware Simplex Projection for Cardinality-Constrained Portfolio Optimization},
-  author={Iliopoulos, Nikolaos},
-  year={2025}
+@misc{iliopoulos2025casp,
+  title        = {Covariance-Aware Simplex Projection for Cardinality-Constrained Portfolio Optimization},
+  author       = {Iliopoulos, Nikolaos},
+  year         = {2025},
+  eprint       = {2512.19986},
+  archivePrefix= {arXiv},
+  primaryClass = {q-fin.PM},
+  url          = {https://arxiv.org/abs/2512.19986}
 }
 ```
 
